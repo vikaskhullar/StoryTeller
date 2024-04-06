@@ -5,7 +5,6 @@ Created on Sat Apr  6 19:59:30 2024
 @author: vikas
 """
 import speech_recognition as sr
-import pyaudio
 
 import streamlit as st
 
