@@ -1,2 +1,2 @@
 SpeechRecognition
-conda install PyAudio
+PyAudio==0.2.11
